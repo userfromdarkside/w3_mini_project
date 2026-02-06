@@ -1,0 +1,11 @@
+status,date,monthly_fee,age,name,user_id,subcription,address,email
+active,2026-02-01,29.99,25,Alice Smith,U001,True,123 Main St,alice@example.com
+inactive,2026-01-15,19.99,-5,Bob Jones,U002,False,456 Oak Ave,bob@example.com
+active,2026-02-03,39.99,30,Carol Lee,,True,789 Pine Rd,carol@example.com
+active,2026-02-04,24.99,28,David Kim,U001,True,321 Elm St,david@example.com
+inactive,2026-01-20,15.99,22,Eva Brown,U003,False,654 Maple Ave,eva@example.com
+active,2026-02-05,29.99,twenty,Frank White,U004,True,987 Cedar Rd,frank@example.com
+inactive,2026-01-25,19.99,35,Grace Black,,False,159 Spruce St,grace@example.com
+active,2026-02-06,34.99,40,Henry Green,U003,True,753 Willow Ave,henry@example.com
+inactive,2026-01-30,22.99,27,Ivy Blue,U005,False,246 Birch Rd,ivy@example.com
+active,2026-02-02,29.99,200,Jack Red,U006,True,369 Aspen St,jack@example.com
